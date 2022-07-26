@@ -6,7 +6,6 @@ struct Triangle
     float p;
     float S;
 };
-
 int main()
 {
     int n;
