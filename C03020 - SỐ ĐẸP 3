@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int check(int n)
 {
     int x = 0, m = n, s = 0, ok = 0;
